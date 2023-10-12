@@ -1,1 +1,1 @@
-# Student_Data_Management_System
+# A Database System for Student Records
